@@ -21,7 +21,7 @@ In the golden afternoon
 There are dizzy daffodils on the hillside  
 <!--Put the first five lines of a poem by Lewis Carrol in this section!-->
 
-## Second Verse
+## Second Verse  
 <!--Put the first five lines of a poem by Robert Frost here!-->
 
 ## Third Verse
